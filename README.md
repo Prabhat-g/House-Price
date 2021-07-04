@@ -1,6 +1,7 @@
 # House-Price
 A Kaggle competition problem 'House Prices'. In this problem a set of house features are given and based on the given features, We have to predict house price.
 
+For more details about problem , please visit:-  https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
 Please find below the list of features
 
